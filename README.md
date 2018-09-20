@@ -1,4 +1,4 @@
-# Reddit's 'Here's How to Prepare for Tech Interviews' solutions
+# [Reddit's 'Here's How to Prepare for Tech Interviews' solutions](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
 
 # Data Structures
 Go to wikipedia and read the whole page of each of these a few times, then write your own (for real, actually write the code and play with this stuff - that is the most important part)
